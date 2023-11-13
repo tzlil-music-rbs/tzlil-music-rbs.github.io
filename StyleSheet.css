@@ -1,0 +1,53 @@
+﻿body {
+    direction: rtl;
+    font-family: 'FbOxford Light';
+    font-size: 20px;
+    padding-top:2%;
+    padding-right: 7%;
+    padding-left: 7%;
+    /* background-color:khaki;*/
+}
+
+h1, h2 {
+    text-align: center;
+    background-color:#ffd800 
+}
+
+h3{
+    color:crimson;
+}
+
+ul{
+    color:lightseagreen;
+}
+
+table{
+    background-color: #a3eadd;
+    margin: 0px auto;
+    width: 1145px;
+    text-align: center;
+    border: 3px medium white;
+    /*border-style: none;
+    border-color: white ;
+    border-spacing: 2px;*/
+}
+td {
+
+}
+
+img {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    /*display: inline-block;*/
+}
+p {
+    padding: 15px;
+    border-style: double;
+    border-color: darkslateblue;
+    margin-right: auto;
+    margin-left: auto;
+}
+
